@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class paymentTest {
+public class PaymentTest {
     @Test
     void testSuccessfulPayment() throws Exception {
 
